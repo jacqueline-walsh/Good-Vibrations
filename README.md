@@ -1,7 +1,6 @@
 # README
 Barry woz 'ere
-in his branch up 10.45
-and back down again 10.58
+in Barry branch 12.15
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
