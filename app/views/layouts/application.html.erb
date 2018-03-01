@@ -22,7 +22,10 @@
     
     <p class="notice"><%= notice %></p>
        <p class="alert"><%= alert %></p>
-
+       <!-- br added 2 lines below - as part of devise - need approval pls!-->
+        <% flash.each do |name, msg| %>
+           <%= content_tag(:div, msg, class: "alert alert-info") %>
+      <% end %>
     <%= yield %>
     </div>
     
