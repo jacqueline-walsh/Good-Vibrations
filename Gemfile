@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 #devise added by Barry 270218 for login
-gem 'devise', '~> 4.4'
+gem 'devise', '~> 4.7'
 #added by Barry 270218 - required by devise
 gem 'nokogiri', '~> 1.8'
 
