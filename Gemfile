@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 #devise added by Barry 270218 for login
 gem 'devise', '~> 4.4'
 #added by Barry 270218 - required by devise
-gem 'nokogiri', '~> 1.8'
+gem 'nokogiri', '~> 1.11'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
